@@ -2,8 +2,6 @@
 
 Documentation of my Linux system administration journey. This portfolio tracks the educational platforms, documentation resources, and technical channels I utilize to master command-line operations, alongside specific milestones in my practical hands-on training.
 
----
-
 ## Active Labs & Progress
 
 ### [OverTheWire: Wargames](https://overthewire.org/wargames/)
@@ -14,14 +12,10 @@ Documentation of my Linux system administration journey. This portfolio tracks t
 
 My progression up to Level 7 has relied heavily on mastering file system navigation, identifying hidden file types via metadata, filtering output streams, and constructing precise system search queries using `find` to isolate target files while handling permission constraints.
 
----
-
 ## Reference & Documentation Websites
 
-* **[LinuxCommand.org](https://linuxcommand.org/)** A foundational educational resource focused on transitioning administrators from a graphical interface to the command line. Used primarily as a structured reference for advanced shell navigation, environment configuration, and automation via shell script writing.
-
----
+* **[LinuxCommand.org](https://linuxcommand.org/)**: A foundational educational resource focused on transitioning administrators from a graphical interface to the command line. Used primarily as a structured reference for advanced shell navigation, environment configuration, and automation via shell script writing.
 
 ## Technical Media & Training Channels
 
-* **[Learn Linux TV](https://www.youtube.com/learnlinuxtv)** A deep-dive technical channel focusing on practical enterprise Linux operations. Utilized for detailed, production-grade walkthroughs covering Debian system management, homelab architecture, server configuration, and automation best practices.
+* **[Learn Linux TV](https://www.youtube.com/learnlinuxtv)**: A deep-dive technical channel focusing on practical enterprise Linux operations. Utilized for detailed, production-grade walkthroughs covering Debian system management, homelab architecture, server configuration, and automation best practices.
